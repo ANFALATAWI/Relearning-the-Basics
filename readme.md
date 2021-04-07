@@ -13,7 +13,7 @@ The format these notebooks follow is code discussion. These notebooks both imple
 
 ## Notebooks
 1. [1.1 What's an Algorithm?](https://nbviewer.jupyter.org/github/ANFALATAWI/Relearning-the-Basics/blob/main/Chapter%201/1-1.ipynb)
-2. [1.1 Exercises](https://nbviewer.jupyter.org/github/ANFALATAWI/Relearning-the-Basics/blob/main/Chapter%201/Exercises.ipynb)
+2. [1.1 Exercises](https://nbviewer.jupyter.org/github/ANFALATAWI/Relearning-the-Basics/blob/main/Chapter%201/Exercises%201-1.ipynb)
 
 
 I think of this almost as code diaries. People want to read everyday, write everyday, I want to program and solve problems everyday. This is a skill I acquiried that I would never want to lose.
