@@ -17,4 +17,4 @@ The format these notebooks follow is code discussion & summaries. These notebook
 4. [1.3 Exercises](https://nbviewer.jupyter.org/github/ANFALATAWI/Relearning-the-Basics/blob/main/Chapter%201/1-3%20Exercises.ipynb)
 5. [1.4 Fundemental Data Structures](https://nbviewer.jupyter.org/github/ANFALATAWI/Relearning-the-Basics/blob/main/)
 
-I think of this almost as code diaries. People want to read everyday, write everyday, I want to program and solve problems everyday. This is a skill I acquired that I would never want to lose.
+I think of this almost as code diaries. People want to read everyday, write everyday, I want to program and solve problems everyday. This is a skill I acquired that I would never want to lose. - 
